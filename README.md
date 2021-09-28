@@ -8,4 +8,4 @@ This is the
 repo of the sister repos,
 [-CORW](https://github.com/dmparrishphd/dayAfter-Py-CORW)
 and
-[-WORM](ttps://github.com/dmparrishphd/dayAfter-Py-WORM).
+[-WORM](https://github.com/dmparrishphd/dayAfter-Py-WORM).
